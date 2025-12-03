@@ -59,18 +59,3 @@ Smooth animations
 Optional snow or sparkle effects
 
 Kid-friendly UI
-
-🛠️ Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
-
-No external libraries
-
-🚀 Deployment
-
-The project works on static hosting platforms like Vercel.
-Simply upload the HTML/CSS/JS files.
